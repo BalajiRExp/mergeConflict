@@ -1,2 +1,2 @@
 This is test file 1 from merge conflict
-City : None
+City : Banglore
